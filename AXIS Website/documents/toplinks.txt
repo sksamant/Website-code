@@ -1,0 +1,19 @@
+<span class="navitem">
+<a href="index.php">Home<span>Read about our Mission, History, and how to contact us.</span>
+</a></span>
+
+<span class="navitem">
+<a href="services.php">Services<span>Learn about the services we can provide and warranty information.</span>
+</a></span>
+
+<span class="navitem">
+<a href="references.php">References<span>Read what other satisfied clients of AXIS: Painting have to say about us.</span>
+</a></span>
+
+<span class="navitem">
+<a href="work.html">Our Work<span>See some of our most recent commercial and residential projects.</span>
+</a></span>
+
+<span class="navitem">
+<a href="tyler.php">Ask Ty<span>Ask Ty, the owner of AXIS what he can do for you!</span>
+</a></span>

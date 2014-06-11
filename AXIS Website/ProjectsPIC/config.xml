@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useLargeImages="2048"
+	useSmallImages="800"
+	galleryTitle="Projects completed"
+
+>
+  <image imageURL="images/Residential - Deck surface finishes.jpg"
+	thumbURL="thumbs/Residential - Deck surface finishes.jpg"
+	linkURL="images/Residential - Deck surface finishes.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Deck surface finishes.JPG">
+    <title><![CDATA[Residential - Deck surface finishes]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential - Deck surface.jpg"
+	thumbURL="thumbs/Residential - Deck surface.jpg"
+	linkURL="images/Residential - Deck surface.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Deck surface.jpg">
+    <title><![CDATA[Residential - Deck surface]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential - Exteriors.jpg"
+	thumbURL="thumbs/Residential - Exteriors.jpg"
+	linkURL="images/Residential - Exteriors.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Exteriors.jpg">
+    <title><![CDATA[Residential - Exteriors]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential - Fence paint.jpg"
+	thumbURL="thumbs/Residential - Fence paint.jpg"
+	linkURL="images/Residential - Fence paint.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Fence paint.jpg">
+    <title><![CDATA[Residential - Fence paint]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential - Interior color change.jpg"
+	thumbURL="thumbs/Residential - Interior color change.jpg"
+	linkURL="images/Residential - Interior color change.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Interior color change.jpg">
+    <title><![CDATA[Residential - Interior color change]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential - Trim .jpg"
+	thumbURL="thumbs/Residential - Trim .jpg"
+	linkURL="images/Residential - Trim .jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Trim .jpg">
+    <title><![CDATA[Residential - Trim ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential Deck exterior.jpg"
+	thumbURL="thumbs/Residential Deck exterior.jpg"
+	linkURL="images/Residential Deck exterior.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential Deck exterior.JPG">
+    <title><![CDATA[Residential Deck exterior]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential -Exterior fullview.jpg"
+	thumbURL="thumbs/Residential -Exterior fullview.jpg"
+	linkURL="images/Residential -Exterior fullview.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential -Exterior fullview.jpg">
+    <title><![CDATA[Residential -Exterior fullview]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential Glazing.jpg"
+	thumbURL="thumbs/Residential Glazing.jpg"
+	linkURL="images/Residential Glazing.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential Glazing.jpg">
+    <title><![CDATA[Residential Glazing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential HOA.jpg"
+	thumbURL="thumbs/Residential HOA.jpg"
+	linkURL="images/Residential HOA.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential HOA.jpg">
+    <title><![CDATA[Residential HOA]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential Wallpaper removal.jpg"
+	thumbURL="thumbs/Residential Wallpaper removal.jpg"
+	linkURL="images/Residential Wallpaper removal.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential Wallpaper removal.jpg">
+    <title><![CDATA[Residential Wallpaper removal]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Residential - Bathroom .jpg"
+	thumbURL="thumbs/Residential - Bathroom .jpg"
+	linkURL="images/Residential - Bathroom .jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Residential\Repository\Residential - Bathroom .jpg">
+    <title><![CDATA[Residential - Bathroom ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commercial exterior.jpg"
+	thumbURL="thumbs/Commercial exterior.jpg"
+	linkURL="images/Commercial exterior.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Commercial exterior.JPG">
+    <title><![CDATA[Commercial exterior]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commercial - farmers market.jpg"
+	thumbURL="thumbs/Commercial - farmers market.jpg"
+	linkURL="images/Commercial - farmers market.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Commercial - farmers market.jpg">
+    <title><![CDATA[Commercial - farmers market]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commercial - John Waldron Center.jpg"
+	thumbURL="thumbs/Commercial - John Waldron Center.jpg"
+	linkURL="images/Commercial - John Waldron Center.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Commercial - John Waldron Center.JPG">
+    <title><![CDATA[Commercial - John Waldron Center]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commercial - Papa Johns.jpg"
+	thumbURL="thumbs/Commercial - Papa Johns.jpg"
+	linkURL="images/Commercial - Papa Johns.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Commercial - Papa Johns.jpg">
+    <title><![CDATA[Commercial - Papa Johns]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Showers building.jpg"
+	thumbURL="thumbs/Showers building.jpg"
+	linkURL="images/Showers building.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Showers building.JPG">
+    <title><![CDATA[Showers building]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commercial - student housing.jpg"
+	thumbURL="thumbs/Commercial - student housing.jpg"
+	linkURL="images/Commercial - student housing.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Commercial - student housing.jpg">
+    <title><![CDATA[Commercial - student housing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Student housing.jpg"
+	thumbURL="thumbs/Student housing.jpg"
+	linkURL="images/Student housing.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\Student housing.JPG">
+    <title><![CDATA[Student housing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/YMCA.jpg"
+	thumbURL="thumbs/YMCA.jpg"
+	linkURL="images/YMCA.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Repository\YMCA.JPG">
+    <title><![CDATA[YMCA]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Graffiti Removal - After.jpg"
+	thumbURL="thumbs/Graffiti Removal - After.jpg"
+	linkURL="images/Graffiti Removal - After.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\graffiti removal\Graffiti Removal - After.JPG">
+    <title><![CDATA[Graffiti Removal - After]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Graffiti Removal - Before.jpg"
+	thumbURL="thumbs/Graffiti Removal - Before.jpg"
+	linkURL="images/Graffiti Removal - Before.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\graffiti removal\Graffiti Removal - Before.JPG">
+    <title><![CDATA[Graffiti Removal - Before]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Powerwashing - Decks 1.jpg"
+	thumbURL="thumbs/Powerwashing - Decks 1.jpg"
+	linkURL="images/Powerwashing - Decks 1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Powerwashing\Repository\Powerwashing - Decks 1.jpg">
+    <title><![CDATA[Powerwashing - Decks 1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Powerwashing - Exterior Full.jpg"
+	thumbURL="thumbs/Powerwashing - Exterior Full.jpg"
+	linkURL="images/Powerwashing - Exterior Full.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Powerwashing\Repository\Powerwashing - Exterior Full.jpg">
+    <title><![CDATA[Powerwashing - Exterior Full]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

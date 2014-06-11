@@ -1,0 +1,7 @@
+This site is in 'php' so that certain parts of the page can be automatically included in each page, which makes changes easier.  'sideinfo.txt' has all the text that is in the leftmost portion, 'toplinks.txt' has the link information (including the mouseover text).  Though they are .txt files, the contents of them is html that is to be inserted into the page at the point in which their 'include' statement is called. Editing and uploading these will change all of the pages at once and keep things consistent.  
+
+To edit or change the links in the navigation, open toplinks.txt.  The structure is a span (class navitem) for each link, then the acutal <a> tag inside that span, and then a regular span inside the <a>.  What is in the innermost <span> is the mouseover text.  Make sure there is not a space between the visible link text ('Home', for example) and the start of the innermost <span>, or there will be a 'jumpy' effect when the links are moused over. 
+
+Except for a few tables used in forms and picture pages, everything is laid out with the stylesheet (axis_style.css).  It makes everything uniform, and is responsible for some technical effects like the text in the innermost span of the top links only displaying when the parent link is moused over.  It absolutely needs to be in the main directory (the same as all the php files) or this will be one plain page!
+
+Any questions?  E-mail Caroline at ccourtne@indiana.edu for help.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useLargeImages="2048"
+	useSmallImages="800"
+	importTitle="FILENAME"
+	galleryTitle="Photo album test"
+
+>
+  <image imageURL="images/Com04.jpg"
+	thumbURL="thumbs/Com04.jpg"
+	linkURL="images/Com04.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Com04.jpg">
+    <title><![CDATA[Com04]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Com03.jpg"
+	thumbURL="thumbs/Com03.jpg"
+	linkURL="images/Com03.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\Com03.jpg">
+    <title><![CDATA[Com03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/farmers market awnings.jpg"
+	thumbURL="thumbs/farmers market awnings.jpg"
+	linkURL="images/farmers market awnings.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\wamp\www\Bckup_Old\JobPICs\Commercial\farmers market awnings.jpg">
+    <title><![CDATA[farmers market awnings]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

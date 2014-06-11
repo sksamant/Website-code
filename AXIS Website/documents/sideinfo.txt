@@ -1,0 +1,9 @@
+<h3>Tyler Spatta, Owner</h3>
+<p>
+  <strong>AXIS:Painting</strong><br />
+  <span class="smalltext">P.O. Box 6176<br />
+  Bloomington IN 47407</span></p>
+<p><span class="smalltext"><strong>Phone</strong>: 812-323-3730<br />
+    <strong>FAX</strong>: 812-876-8726</span></p>
+    <p>
+  <a href="mailto:%20axisent@bluemarble.net">axisent@bluemarble.net</a></p>

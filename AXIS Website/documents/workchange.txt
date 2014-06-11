@@ -1,0 +1,25 @@
+Prepare the photos
+
+In ImageReady, open the large version of the photo you want to put up.  Go to Image > Image size and make sure it is under 1000 pixels in width (it’s not very useful to viewers if it’s too big for their screen).
+
+In the top-left of the window for the file, it will say ‘Original, optimized, 2-up, and 4-up’ on ‘tabs’ that stick out from the top of the image.  Click ‘2-up’ and you get the original (what was last saved and that you have just opened) in the left, and the right will have a view of what it will look like optimized
+
+Click Window > Optimized to show this window if it’s not already open (it should be at the top-right).  In the ‘Settings” dropdown, choose JPEG High.  This will bring up the defaults for a high quality photo.  Use the ‘Quality’ slider to find a balance of image quality and file size.  50K is good; these should be of nice quality, since people clicked on the thumbnail for them, meaning they really want to see the big version.
+
+Go to File > Save As- you want to save it to something different in your samplejobs folder.  (You want to keep the original since compressing it will give you a lower-quality image that you may need to work with again, and then re-compress, and it will just not look good).  
+
+Re-open your original photo, and go to Image > Image Size again.  Make sure ‘Constrain Proportions’ is checked and re-set the width to 140 pixels.  In the ‘2-up’ view, use the quality slider to get the image down to 3-5 K, since these will be on the initial page and you want them to load fast.  Go to File > Save As, save it in the samplejobs folder, and then name it what you named the compressed larger version but tack ‘thumb’ on the end of the name.  (Ex house1.jpg and house1thumb.jpg
+
+
+Edit the work.html page
+
+Open the work.html page in FrontPage.  Each group of two images and a description is inside it’s own table.  These tables are represented by dotted gray lines.  You could simply change the photos that are displayed, or you can add a new group of photos and text (a new table) to the page.  To do that, it would be easiest to copy an existing table, past it on to the bottom of the page, and make changes to it.  Click inside a table (anywhere), and go to Table > Select > Table.  Type Control + C (or Edit > Copy).  Place the cursor at the bottom of the page, or place the cursor between two other tables, press return twice and the up arrow key once before you paste.
+
+Now you have a duplicate for of one of the tables.  For the text, just drag your cursor over it and type in something new.  You will need to change which thumbnails are displayed in your new table, and change the links to your new corresponding larger versions of the photos.   For each thumbnail, right-click on it, and choose “Picture Properties…”.  Click the ‘General’ tab at the top.  The first text box will be Picture source.  It should say samplejobs/xyzthumb.jpg.  (where xyz is the name you gave to the new picture).  Just change the file name it points to.  
+
+Further down in that dialogue box, you will see ‘Default Hyperlink’.  ‘Target’ should be new window, and Location should be samplejobs/xyz.jpg.  Click “OK”.  Save as you go, whenever you successfully make a change, so that if you do something and think (or know) you’ve made a mistake, you can go back very easily.
+
+
+Upload the changes to the internet
+
+Log in to goveia.com, and place the work.html file in public_html (the main site directory).  Then go into the samplejobs folder on the server, then move (upload) all of the photos you have created.  You could also upload the whole samplejob folder into public_html on the server to be sure you’ve gotten everything (if you haven’t deleted anything important), but that will take a few minutes.
